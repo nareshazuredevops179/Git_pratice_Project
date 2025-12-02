@@ -1,0 +1,46 @@
+
+
+INSERT INTO student (stdname, branch, college, age, telephone, adress) Values ('shiva', 'Kailasam', 'swargam', 1000, 9999999999, 'kailsam');
+INSERT INTO student (stdname, branch, college, age, telephone, adress) Values ('Parvathi', 'Kailasam', 'swargam', 1000, 9999999999, 'kailsam');
+INSERT INTO student (stdname, branch, college, age, telephone, adress) Values ('subramanya swamy', 'Kailasam', 'swargam', 1000, 9999999999, 'kailsam');
+INSERT INTO student (stdname, branch, college, age, telephone, adress) Values ('ayyappa swamy', 'Kailasam', 'swargam', 1000, 9999999999, 'kailsam');
+
+
+create table product(Product ID number, product Name varchar2(20), category varchar2(20), price number, stock number);
+
+
+gurram.vivika.180876@standrews.com
+
+MP180776
+
+0520300841
+
+
+7
+
+39700 2200000 7620000 10.8
+
+
+
+pan card
+photo
+adhar card
+3 months payslip
+
+
+10.7
+
+
+R761025
+
+
+
+
+
+
+
+
+
+
+
+

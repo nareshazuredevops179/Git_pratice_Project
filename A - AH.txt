@@ -1,0 +1,27 @@
+A - AH
+B - Beh
+C - Ceh
+D - Deh
+E - Eh
+F - Fa
+G - Geh
+H - Ha
+I - E
+J - Yot
+K - Ka
+L - EL
+M - M
+N - N
+O - O
+P - Peh
+Q - Ku
+R - Err
+S - Es
+T - Teh
+U - Uh
+V - Fow
+W - Weh
+X - Ix
+Y Xypsilon
+Z - Tset
+
